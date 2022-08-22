@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04a49e09-93bf-4de2-adf9-43f22aaa08cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04a49e09-93bf-4de2-adf9-43f22aaa08cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="20220720Test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -19,7 +22,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="/opt/homebrew/Cellar/maven/3.8.6/libexec" />
-        <option name="userSettingsFile" value="$USER_HOME$/mvnSettings/zhuzhanDev/settings.xml" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../mvnSettings/zhuzhanDev/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -76,13 +79,28 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/20220720Test" />
+                        <option value="0822test" />
                       </list>
                     </value>
                   </entry>
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="0822test" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
