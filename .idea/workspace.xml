@@ -19,7 +19,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="/opt/homebrew/Cellar/maven/3.8.6/libexec" />
-        <option name="userSettingsFile" value="$PROJECT_DIR$/../mvnSettings/zhuzhanDev/settings.xml" />
+        <option name="userSettingsFile" value="$USER_HOME$/mvnSettings/zhuzhanDev/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -52,12 +52,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="10c838ff-512e-4208-8ae9-6d0a8d5e0a60" name="Changes" comment="" />
+      <changelist id="04a49e09-93bf-4de2-adf9-43f22aaa08cc" name="Changes" comment="" />
       <created>1658305393757</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658305393757</updated>
       <workItem from="1658305394949" duration="3790000" />
+      <workItem from="1659152417698" duration="748000" />
     </task>
     <servers />
   </component>
@@ -69,7 +70,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/20220720Test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
